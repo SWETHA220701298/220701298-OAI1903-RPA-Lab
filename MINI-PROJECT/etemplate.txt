@@ -1,0 +1,9 @@
+Dear [Employee Name],
+
+Your timesheet updates:
+- Total Hours Worked: [Total Hours]
+- Overtime: [Overtime]
+- Updated Deduction: [Deduction]
+- Project Status: [Project]
+
+Thank you.
